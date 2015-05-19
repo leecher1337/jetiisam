@@ -1,0 +1,6 @@
+LIBRARY   JETIISAM
+DESCRIPTION "My installable ISAM driver"
+EXPORTS
+   ErrIsamLoad	@1
+   DllRegisterServer
+   DllUnregisterServer
